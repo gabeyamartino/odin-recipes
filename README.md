@@ -1,1 +1,1 @@
-In this project I will be creating a recipe page. This should reflect some of the things I've been learning about creating web pages and websites using HTML.
+In this project I will be creating a recipe page. This should reflect some of the things I've been learning about creating web pages and websites using HTML and git.
